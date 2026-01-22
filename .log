@@ -1,0 +1,52 @@
+Log file created at: 2026/01/22 11:03:37
+Running on machine: gangqiangsun-VirtualBox
+Binary: Built with gc go1.23.5 for linux/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0122 11:03:37.027787   10926 main.go:41] flag args: []
+I0122 11:03:37.027895   10926 main.go:43] This is EdgeIthings log
+I0122 11:03:37.027898   10926 main.go:45] EdgeIthings exec path is /home/gangqiangsun/MYPROJECT/GO/tcp-proxy
+I0122 11:03:37.027901   10926 main.go:46] EdgeIthings dir is /home/gangqiangsun/MYPROJECT/GO/tcp-proxy
+I0122 11:03:37.027904   10926 main.go:47] EdgeIthings path is ./TCP-PROXY
+I0122 11:03:37.028420   10926 server.go:65] TCP Proxy Server started on :8080
+I0122 11:03:37.043459   10926 server.go:66] Repeater target: localhost:9090
+I0122 11:03:37.028637   10926 log.go:245] Server started. Press Ctrl+C to stop.
+I0122 11:03:40.642933   10926 cmd.go:31] Shutting down server...
+I0122 11:03:40.642979   10926 cmd.go:36] Server stopped.
+Log file created at: 2026/01/22 11:03:55
+Running on machine: gangqiangsun-VirtualBox
+Binary: Built with gc go1.23.5 for linux/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0122 11:03:55.164541   10947 main.go:41] flag args: []
+I0122 11:03:55.164651   10947 main.go:43] This is EdgeIthings log
+I0122 11:03:55.164655   10947 main.go:45] EdgeIthings exec path is /home/gangqiangsun/MYPROJECT/GO/tcp-proxy
+I0122 11:03:55.164659   10947 main.go:46] EdgeIthings dir is /home/gangqiangsun/MYPROJECT/GO/tcp-proxy
+I0122 11:03:55.164663   10947 main.go:47] EdgeIthings path is ./TCP-PROXY
+I0122 11:03:55.165211   10947 server.go:65] TCP Proxy Server started on :8080
+I0122 11:03:55.167684   10947 server.go:66] Repeater target: localhost:9090
+I0122 11:03:55.165254   10947 log.go:245] Server started. Press Ctrl+C to stop.
+I0122 11:03:58.470244   10947 cmd.go:31] Shutting down server...
+I0122 11:03:58.470340   10947 cmd.go:36] Server stopped.
+Log file created at: 2026/01/22 11:04:35
+Running on machine: gangqiangsun-VirtualBox
+Binary: Built with gc go1.23.5 for linux/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0122 11:04:35.115184   10973 main.go:41] flag args: []
+I0122 11:04:35.115265   10973 main.go:43] This is EdgeIthings log
+I0122 11:04:35.115269   10973 main.go:45] EdgeIthings exec path is /home/gangqiangsun/MYPROJECT/GO/tcp-proxy
+I0122 11:04:35.115272   10973 main.go:46] EdgeIthings dir is /home/gangqiangsun/MYPROJECT/GO/tcp-proxy
+I0122 11:04:35.115275   10973 main.go:47] EdgeIthings path is ./TCP-PROXY
+I0122 11:04:35.121510   10973 log.go:245] Server started. Press Ctrl+C to stop.
+I0122 11:04:35.121757   10973 server.go:65] TCP Proxy Server started on :8080
+I0122 11:04:35.126799   10973 server.go:66] Repeater target: localhost:9090
+I0122 11:04:45.129184   10973 server.go:422] Stats - Active: 0, Total: 0, Bytes: 0
+I0122 11:04:55.138838   10973 server.go:422] Stats - Active: 0, Total: 0, Bytes: 0
+I0122 11:05:05.127190   10973 server.go:422] Stats - Active: 0, Total: 0, Bytes: 0
+I0122 11:05:15.132455   10973 server.go:422] Stats - Active: 0, Total: 0, Bytes: 0
+I0122 11:05:25.150238   10973 server.go:422] Stats - Active: 0, Total: 0, Bytes: 0
+I0122 11:05:35.128274   10973 server.go:422] Stats - Active: 0, Total: 0, Bytes: 0
+I0122 11:05:45.133488   10973 server.go:422] Stats - Active: 0, Total: 0, Bytes: 0
+I0122 11:05:55.127569   10973 server.go:422] Stats - Active: 0, Total: 0, Bytes: 0
+I0122 11:06:05.126890   10973 server.go:422] Stats - Active: 0, Total: 0, Bytes: 0
+I0122 11:06:15.129065   10973 server.go:422] Stats - Active: 0, Total: 0, Bytes: 0
+I0122 11:06:24.130876   10973 cmd.go:31] Shutting down server...
+I0122 11:06:24.130934   10973 cmd.go:36] Server stopped.

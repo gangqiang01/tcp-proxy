@@ -1,0 +1,137 @@
+Log file created at: 2026/01/22 11:34:37
+Running on machine: gangqiangsun-VirtualBox
+Binary: Built with gc go1.23.5 for linux/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0122 11:34:37.544670   16563 main.go:47] TCP-PROXY 程序: TCP-PROXY
+I0122 11:34:37.544792   16563 main.go:48] TCP-PROXY 参数: []
+I0122 11:34:37.544799   16563 main.go:49] TCP-PROXY 工作目录: /home/gangqiangsun/MYPROJECT/GO/tcp-proxy
+I0122 11:34:37.545317   16563 cmd.go:20] 启动TCP代理服务器，监听地址: :8080
+I0122 11:34:37.550292   16563 cmd.go:21] Repeater地址: localhost:9090
+I0122 11:34:37.550300   16563 cmd.go:22] 最大连接数: 1000
+I0122 11:34:37.550469   16563 server.go:65] TCP Proxy Server started on :8080
+I0122 11:34:37.550473   16563 server.go:66] Repeater target: localhost:9090
+I0122 11:34:40.048277   16563 cmd.go:36] 接收到信号: interrupt，正在关闭服务器...
+I0122 11:34:42.049654   16563 cmd.go:44] 服务器已完全关闭
+Log file created at: 2026/01/22 11:41:50
+Running on machine: gangqiangsun-VirtualBox
+Binary: Built with gc go1.23.5 for linux/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0122 11:41:50.362922   17260 main.go:47] TCP-PROXY 程序: TCP-PROXY
+I0122 11:41:50.363005   17260 main.go:48] TCP-PROXY 参数: []
+I0122 11:41:50.363011   17260 main.go:49] TCP-PROXY 工作目录: /home/gangqiangsun/MYPROJECT/GO/tcp-proxy
+I0122 11:41:50.367282   17260 cmd.go:20] 启动TCP代理服务器，监听地址: :8080
+I0122 11:41:50.367293   17260 cmd.go:21] Repeater地址: localhost:9090
+I0122 11:41:50.367296   17260 cmd.go:22] 最大连接数: 1000
+I0122 11:41:50.367438   17260 server.go:65] TCP Proxy Server started on :8080
+I0122 11:41:50.367441   17260 server.go:66] Repeater target: localhost:9090
+I0122 11:41:52.119630   17260 cmd.go:36] 接收到信号: interrupt，正在关闭服务器...
+I0122 11:41:54.123024   17260 cmd.go:44] 服务器已完全关闭
+Log file created at: 2026/01/22 13:29:33
+Running on machine: gangqiangsun-VirtualBox
+Binary: Built with gc go1.23.5 for linux/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0122 13:29:33.150481   19470 main.go:47] TCP-PROXY 程序: TCP-PROXY
+I0122 13:29:33.150595   19470 main.go:48] TCP-PROXY 参数: []
+I0122 13:29:33.150604   19470 main.go:49] TCP-PROXY 工作目录: /home/gangqiangsun/MYPROJECT/GO/tcp-proxy
+I0122 13:29:33.150794   19470 cmd.go:20] 启动TCP代理服务器，监听地址: :8080
+I0122 13:29:33.156735   19470 cmd.go:21] Repeater地址: localhost:9090
+I0122 13:29:33.156740   19470 cmd.go:22] 最大连接数: 1000
+I0122 13:29:33.156827   19470 server.go:65] TCP Proxy Server started on :8080
+I0122 13:29:33.156829   19470 server.go:66] Repeater target: localhost:9090
+I0122 13:29:38.814960   19470 cmd.go:36] 接收到信号: interrupt，正在关闭服务器...
+I0122 13:29:40.824191   19470 cmd.go:44] 服务器已完全关闭
+Log file created at: 2026/01/22 13:30:28
+Running on machine: gangqiangsun-VirtualBox
+Binary: Built with gc go1.23.5 for linux/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0122 13:30:28.934014   19522 main.go:47] TCP-PROXY 程序: TCP-PROXY
+I0122 13:30:28.934129   19522 main.go:48] TCP-PROXY 参数: []
+I0122 13:30:28.934135   19522 main.go:49] TCP-PROXY 工作目录: /home/gangqiangsun/MYPROJECT/GO/tcp-proxy
+I0122 13:30:28.934283   19522 cmd.go:20] 启动TCP代理服务器，监听地址: :8080
+I0122 13:30:28.950370   19522 cmd.go:21] Repeater地址: localhost:9090
+I0122 13:30:28.950378   19522 cmd.go:22] 最大连接数: 1000
+I0122 13:30:28.950624   19522 server.go:65] TCP Proxy Server started on :8080
+I0122 13:30:28.950629   19522 server.go:66] Repeater target: localhost:9090
+I0122 13:30:33.479262   19522 cmd.go:36] 接收到信号: interrupt，正在关闭服务器...
+I0122 13:30:35.480817   19522 cmd.go:44] 服务器已完全关闭
+Log file created at: 2026/01/22 13:31:26
+Running on machine: gangqiangsun-VirtualBox
+Binary: Built with gc go1.23.5 for linux/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0122 13:31:26.076213   19574 main.go:47] TCP-PROXY 程序: TCP-PROXY
+I0122 13:31:26.076385   19574 main.go:48] TCP-PROXY 参数: []
+I0122 13:31:26.076392   19574 main.go:49] TCP-PROXY 工作目录: /home/gangqiangsun/MYPROJECT/GO/tcp-proxy
+I0122 13:31:26.076874   19574 cmd.go:20] 启动TCP代理服务器，监听地址: :8080
+I0122 13:31:26.081077   19574 cmd.go:21] Repeater地址: localhost:9090
+I0122 13:31:26.081082   19574 cmd.go:22] 最大连接数: 1000
+I0122 13:31:26.081243   19574 server.go:65] TCP Proxy Server started on :8080
+I0122 13:31:26.081246   19574 server.go:66] Repeater target: localhost:9090
+I0122 13:31:33.853834   19574 cmd.go:36] 接收到信号: interrupt，正在关闭服务器...
+I0122 13:31:35.854066   19574 cmd.go:44] 服务器已完全关闭
+Log file created at: 2026/01/22 13:32:51
+Running on machine: gangqiangsun-VirtualBox
+Binary: Built with gc go1.23.5 for linux/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0122 13:32:51.354970   19802 main.go:47] TCP-PROXY 程序: TCP-PROXY
+I0122 13:32:51.355095   19802 main.go:48] TCP-PROXY 参数: []
+I0122 13:32:51.355102   19802 main.go:49] TCP-PROXY 工作目录: /home/gangqiangsun/MYPROJECT/GO/tcp-proxy
+I0122 13:32:51.355346   19802 cmd.go:20] 启动TCP代理服务器，监听地址: :8080
+I0122 13:32:51.355353   19802 cmd.go:21] Repeater地址: localhost:9090
+I0122 13:32:51.355355   19802 cmd.go:22] 最大连接数: 1000
+I0122 13:32:51.355491   19802 server.go:65] TCP Proxy Server started on :8080
+I0122 13:32:51.355494   19802 server.go:66] Repeater target: localhost:9090
+I0122 13:32:54.926091   19802 cmd.go:36] 接收到信号: interrupt，正在关闭服务器...
+I0122 13:32:56.926851   19802 cmd.go:44] 服务器已完全关闭
+Log file created at: 2026/01/22 15:22:47
+Running on machine: gangqiangsun-VirtualBox
+Binary: Built with gc go1.23.5 for linux/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0122 15:22:47.153814   31839 main.go:48] TCP-PROXY 程序: TCP-PROXY
+I0122 15:22:47.163481   31839 main.go:49] TCP-PROXY 参数: []
+I0122 15:22:47.163493   31839 main.go:50] TCP-PROXY 工作目录: /home/gangqiangsun/MYPROJECT/GO/tcp-proxy
+I0122 15:22:47.163560   31839 cmd.go:20] 启动TCP代理服务器，监听地址: :8080
+I0122 15:22:47.163563   31839 cmd.go:21] Repeater地址: localhost:9090
+I0122 15:22:47.163565   31839 cmd.go:22] 最大连接数: 1000
+I0122 15:22:47.163777   31839 server.go:114] TCP Proxy Server started on :8080
+I0122 15:22:47.163780   31839 server.go:115] Repeater target: localhost:9090
+I0122 15:22:47.163782   31839 server.go:116] Repeater TLS: false
+I0122 15:22:47.163784   31839 server.go:117] Max connections: 1000
+I0122 15:22:47.163787   31839 server.go:118] Read timeout: 10s, Write timeout: 10s
+I0122 15:22:47.163797   31839 server.go:119] Buffer size: 4194304 bytes
+I0122 15:22:47.163800   31839 server.go:120] Idle timeout: 5m0s
+I0122 15:22:50.099481   31839 cmd.go:36] 接收到信号: interrupt，正在关闭服务器...
+I0122 15:22:50.099512   31839 server.go:560] Stopping TCP proxy server...
+I0122 15:22:50.099554   31839 server.go:600] All goroutines stopped
+I0122 15:22:50.099558   31839 server.go:610] TCP proxy server stopped
+I0122 15:22:52.100894   31839 cmd.go:44] 服务器已完全关闭
+Log file created at: 2026/01/22 15:22:55
+Running on machine: gangqiangsun-VirtualBox
+Binary: Built with gc go1.23.5 for linux/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0122 15:22:55.127146   31869 main.go:48] TCP-PROXY 程序: TCP-PROXY
+I0122 15:22:55.127300   31869 main.go:49] TCP-PROXY 参数: []
+I0122 15:22:55.127308   31869 main.go:50] TCP-PROXY 工作目录: /home/gangqiangsun/MYPROJECT/GO/tcp-proxy
+I0122 15:22:55.127679   31869 cmd.go:20] 启动TCP代理服务器，监听地址: :5500
+I0122 15:22:55.143453   31869 cmd.go:21] Repeater地址: 172.21.84.172:5500
+I0122 15:22:55.143460   31869 cmd.go:22] 最大连接数: 2000
+I0122 15:22:55.143591   31869 server.go:114] TCP Proxy Server started on :5500
+I0122 15:22:55.143594   31869 server.go:115] Repeater target: 172.21.84.172:5500
+I0122 15:22:55.143596   31869 server.go:116] Repeater TLS: false
+I0122 15:22:55.143598   31869 server.go:117] Max connections: 2000
+I0122 15:22:55.143601   31869 server.go:118] Read timeout: 10s, Write timeout: 10s
+I0122 15:22:55.143611   31869 server.go:119] Buffer size: 4194304 bytes
+I0122 15:22:55.143614   31869 server.go:120] Idle timeout: 5m0s
+I0122 15:23:05.143768   31869 server.go:513] Stats - Sessions: 0, Active: 0, Total: 0, Failed: 0, Bytes: 0, TLS: false
+I0122 15:23:10.266495   31869 server.go:232] Session sess-1769066590266445724-1: new connection from 172.21.73.178:37710
+I0122 15:23:10.267753   31869 server.go:263] Session sess-1769066590266445724-1: connection established, client 172.21.73.178:37710 <-> repeater 172.21.84.172:5500 (TLS: false)
+I0122 15:23:15.144959   31869 server.go:513] Stats - Sessions: 1, Active: 1, Total: 1, Failed: 0, Bytes: 262, TLS: false
+I0122 15:23:25.148370   31869 server.go:513] Stats - Sessions: 1, Active: 1, Total: 1, Failed: 0, Bytes: 140714, TLS: false
+I0122 15:23:28.091460   31869 cmd.go:36] 接收到信号: interrupt，正在关闭服务器...
+I0122 15:23:28.091474   31869 server.go:560] Stopping TCP proxy server...
+I0122 15:23:28.091517   31869 server.go:575] Closing session: sess-1769066590266445724-1
+E0122 15:23:28.091612   31869 server.go:346] Session sess-1769066590266445724-1: error reading from repeater->client: read tcp 172.21.73.126:57144->172.21.84.172:5500: use of closed network connection
+E0122 15:23:28.091673   31869 server.go:346] Session sess-1769066590266445724-1: error reading from client->repeater: read tcp 172.21.73.126:5500->172.21.73.178:37710: use of closed network connection
+I0122 15:23:28.091692   31869 server.go:295] Session sess-1769066590266445724-1: connection closed
+I0122 15:23:28.091736   31869 server.go:600] All goroutines stopped
+I0122 15:23:28.091740   31869 server.go:610] TCP proxy server stopped
+I0122 15:23:30.092468   31869 cmd.go:44] 服务器已完全关闭
