@@ -2,6 +2,8 @@
 
 ## Overview
 A TCP proxy server acts as an intermediary or relay between two network endpoints: a **client** and a **backend server**. Its primary function is to forward network traffic seamlessly between them. This makes the proxy appear as the final server to the client, and conversely, appear as the client to the backend server.
+## how run
+make
 
 ## Step-by-Step Breakdown of the Connection Process
 
